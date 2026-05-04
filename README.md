@@ -40,7 +40,9 @@ This project demonstrates basic sensor interfacing using embedded systems. It in
 
 ## Technologies Used
 - Embedded C / Python  
-- Arduino IDE  
+- Arduino IDE
+- ## Circuit Diagram
+![Circuit](your-image-name.jpg)
 
 ---
 
